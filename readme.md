@@ -5,3 +5,8 @@ The best ways are:
 - Sleep
 - Code 
 - Repeat
+
+Thank You!
+
+## Summary 
+Its a nice repo
